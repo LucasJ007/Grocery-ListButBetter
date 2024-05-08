@@ -4,3 +4,8 @@ This is the main grocery list.
 3. eggs
 4. beer
 5. apples
+6. vodka
+7. bacardi
+8. captain morgan
+9. whiskey
+10. limoncello
